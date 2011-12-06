@@ -1,0 +1,17 @@
+{
+    "BundleType": "Application",
+    "AppIcon": {
+        "18x18": "gossip-18.png"
+        "64x64": "gossip-64.png"
+        "1s8x128": "gossip-128.png"
+    },
+    "AppName": {
+        "en": "Gossip"
+    },
+    "AppDescription": {
+        "en": "Gossip"
+    },
+    "SupportedLanguages": [
+        "en"
+    ]
+}
